@@ -2,7 +2,6 @@
 # $ conda create --name <env> --file <this file>
 # platform: win-64
 blinker==1.7.0
-bzip2==1.0.8
 ca-certificates==2024.3.11
 certifi==2024.2.2
 charset-normalizer==3.3.2
