@@ -217,5 +217,5 @@ def update_pop_pie_dash(meas_vs_year_zoom):
 
 
 # # Run: gunicorn main:app
-# if __name__ == '__main__':
-#     app.run_server(debug=True)
+if __name__ == '__main__':
+    app.run_server(debug=True)
