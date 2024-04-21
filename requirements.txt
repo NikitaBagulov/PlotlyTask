@@ -43,3 +43,4 @@ tenacity==8.2.3
 #xz==5.4.6
 #zipp==3.18.1
 #zlib==1.2.13
+gunicorn==20.1.0
