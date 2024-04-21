@@ -216,6 +216,7 @@ def update_pop_pie_dash(meas_vs_year_zoom):
     return build_pop_pie_fig(*extract_from_to(meas_vs_year_zoom))
 
 
+application = app.server
 # # Run: gunicorn main:app
-if __name__ == '__main__':
-    app.run_server(debug=True)
+# if __name__ == '__main__':
+#     app.run_server(debug=True)
